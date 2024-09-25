@@ -44,12 +44,17 @@ include::_settings.adoc[]
 
 == We are all ComDev
 
+image::barn-raising.jpg[scalewidth=50%]
+++++
+<small>CC by "Elgin County Archives" on Flickr</small>
+++++
+
+[.notes]
+--
 Key Point: ComDev does not do this work *for* you. It's a place 
 for everyone to **collaborate on best practices** and tools that 
 span all projects. Come join us.
 
-[.notes]
---
 
 ComDev is the ideal place for people with so-called "non-technical"
 skills that they want to contribute to the ASF.
