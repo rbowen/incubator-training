@@ -31,19 +31,18 @@ include::_settings.adoc[]
 
 
 [.text-center]
-====
+== .
+
 image::AirflowLogo.png[width=400, height=155, align=center]
 
-A High Level Overview
-====
-
+Apache Airflow: An overview
 
 [.notes]
 --
 Introduce yourself, and your role in the Apache Airflow community.
 --
 
-== Table of Contents
+== Agenda
 
 * What is Apache Airflow?
 * Airflow Principles
@@ -63,7 +62,6 @@ Introduce yourself, and your role in the Apache Airflow community.
 ** Airflow is a platform to programmatically author, schedule and monitor workflows.
 
 ** Developed initially by Airbnb in 2014 and later donated to the Apache Software Foundation, Airflow has become the de facto standard for workflow orchestration in the data engineering ecosystem
-
 
 == Airflow Principles
 
@@ -90,7 +88,6 @@ What enables scaling of Airflow :
 - Supports multiple executor types (e.g., Celery, Kubernetes) for distributed task execution.
 This allows Horizontal Scaling
 --
-
 
 == Scaling Strategies
 

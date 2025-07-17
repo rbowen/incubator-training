@@ -30,7 +30,7 @@ new presentation:
   Y: :
 
 In practice, you'll have to answer the first two questions (`groupID` and
-`articactID`) and just hit enter for the others. Answer Y at the end to
+`artifactID`) and just hit enter for the others. Answer Y at the end to
 start the generation process.
 
 Update the file `pom.xml` to set the presentation's name and
